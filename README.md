@@ -1,7 +1,11 @@
 ﻿# Creater: VastavikAdi👑
 <center>
 <h1>Make sure to visit my Portfolio Website for the Demo</h1>
-<a href="https://vastavikportfolio.vercel.app/" target="_blank" align="center"><b>Redirecting... to the Portfolio!</b></center>
+</center>
+  <div align="center">
+<a href="https://vastavikportfolio.vercel.app/" target="_blank"><b>Redirecting... to the Portfolio!</b>
+</a>
+  </div>
 
 <h2 align="center">
   Portfolio Website | VastavikAdi<br/>
