@@ -1,4 +1,4 @@
-﻿# Creater: VastavikAdi👑
+﻿# Creator: VastavikAdi👑
 <center>
 <h1>Make sure to visit my Portfolio Website for the Demo</h1>
 </center>
