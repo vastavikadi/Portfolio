@@ -36,6 +36,16 @@ function Projects() {
               ghLink="https://github.com/vastavikadi/HealthAssist"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={healthassist}
+              isBlog={false}
+              title="LifeVault"
+              description="LifeVault is a digital vault designed to securely manage and share essential documents and data using a decentralized and transparent approach. Built on Hive and IPFS, LifeVault allows users to upload, retrieve, and share files with security, privacy, and simplicity in mind."
+              ghLink="https://github.com/vastavikadi/LIFEvault---Decentralized-Storage"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
